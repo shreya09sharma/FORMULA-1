@@ -1,0 +1,8 @@
+# Core (needed for engine, simulator, dashboard, tests)
+streamlit>=1.50
+pandas>=2.0
+pytest>=7.0
+
+# Optional - only for real YOLO video detection (the demo works without these)
+# ultralytics>=8.0
+# opencv-python>=4.8
